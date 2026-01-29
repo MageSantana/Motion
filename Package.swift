@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "LyraMotion",
-            url: "https://raw.githubusercontent.com/MageSantana/Motion/1.0.9/LyraMotion.xcframework.zip",
+            url: "https://raw.githubusercontent.com/MageSantana/Motion/1.0.10/LyraMotion.xcframework.zip",
             checksum: "a6230ff0a0e8b596c6bad44a51c62af5db0dc9565fe6239e35545df2027645bf"
         )
     ]
